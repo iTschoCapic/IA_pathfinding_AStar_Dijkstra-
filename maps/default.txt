@@ -1,0 +1,10 @@
+12, 9
+Bonus, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Bonus
+Empty, Empty, Empty, Empty, Wall, Empty, Empty, Wall, Empty, Empty, Empty, Empty
+Empty, Wall, Empty, Empty, Wall, Empty, Wall, Wall, Empty, Empty, Wall, Empty
+Empty, Empty, Wall, Empty, Empty, Empty, Empty, Empty, Empty, Wall, Empty, Empty
+AStar, Empty, Wall, Empty, Empty, Wall, Wall, Empty, Empty, Wall, Empty, Djikstra
+Empty, Empty, Wall, Empty, Empty, Empty, Empty, Empty, Empty, Wall, Empty, Empty
+Empty, Wall, Empty, Empty, Wall, Empty, Empty, Wall, Empty, Empty, Wall, Empty
+Empty, Empty, Empty, Empty, Wall, Wall, Empty, Wall, Empty, Empty, Empty, Empty
+Bonus, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Empty, Bonus
